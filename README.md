@@ -34,6 +34,8 @@
   <img align="center" src="https://github.com/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+<div class="tenor-gif-embed" data-postid="5648590749946970574" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oshawott-pokemon-spin-sprite-unova-gif-5648590749946970574">Oshawott Pokemon Sticker</a>from <a href="https://tenor.com/search/oshawott-stickers">Oshawott Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
